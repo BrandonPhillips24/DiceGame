@@ -1,2 +1,2 @@
 # DiceGame
- Random little dice game
+ Random little games I made
